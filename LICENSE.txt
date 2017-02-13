@@ -1,0 +1,31 @@
+Some portions of this software (specifically, files in the "lib" directory)
+are subject to a different copyright than the rest of the software, but are used
+with permission. See the license files in the "lib" directory for the exact
+license on each file.
+
+The original version of the file "blindfold.js" (originally by a different name)
+is a part of the "gmail-chrome-extension-boilerplate" project and is Copyright
+(c) 2017 Kartik Talwar.
+
+MIT License
+
+Original work Copyright (c) 2017 Kartik Talwar
+Modified work, and all other work unless otherwise noted Copyright (c) 2017
+Nathaniel Paulus
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
