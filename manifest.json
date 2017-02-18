@@ -1,6 +1,6 @@
 {
   "name": "Blindfold",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gmail extension to remind you when you forget to use BCC",
   "content_scripts": [
     {
